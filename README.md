@@ -1,3 +1,10 @@
+# MonoGramX
+A fork of TelegramX with some new features or bug fix
+I work on it in my free time
+Nothing more to say
+
+
+
 # [Telegram X](https://play.google.com/store/apps/details?id=org.thunderdog.challegram) — a slick experimental Telegram client based on [TDLib](https://core.telegram.org/tdlib).
 
 ![Telegram X](/images/feature.png)
